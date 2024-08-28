@@ -81,7 +81,6 @@ Meetings for Fall 2025 will take place in Moody 241 on Tuesdays from 4-5PM.
 </table>
 
 ## Past meetings log
-<h2>Club Schedule: Spring 2024</h2>
 <table>
 <thead>
   <tr>
@@ -140,21 +139,6 @@ Meetings for Fall 2025 will take place in Moody 241 on Tuesdays from 4-5PM.
     <td>Nov 19th</td>
     <td>N/A</td>
   </tr>
-</tbody>
-</table>
-
-
-<table>
-  <table>
-<thead>
-  <tr>
-    <th class="width-min">Topic</th>
-    <th class="width-auto">Discussion Leader</th>
-    <th class="width-min">Date</th>
-    <th class="width-auto">Supplementary Materials</th>
-  </tr>
-</thead>
-<tbody>
   <tr>
       <td><a href=https://arxiv.org/abs/1302.6989>The Bayesian Approach To Inverse Problems</a></td>
       <td>Austin Marstaller</td>
