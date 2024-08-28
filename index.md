@@ -66,13 +66,13 @@ Meetings for Fall 2025 will take place in Moody 241 on Tuesdays from 4-5PM.
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://arxiv.org/abs/2002.01387>UQ</a></td>
+    <td><a href=https://arxiv.org/abs/2002.01387>Random NLA</a></td>
     <td>Jimmie Adriazola</td>
     <td>Nov 12th</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://arxiv.org/abs/2002.01387>UQ</a></td>
+    <td><a href=https://arxiv.org/abs/2002.01387></a>Random NLA</td>
     <td>Jimmie Adriazola</td>
     <td>Nov 19th</td>
     <td>N/A</td>
