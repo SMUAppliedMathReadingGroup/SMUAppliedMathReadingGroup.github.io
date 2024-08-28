@@ -24,7 +24,7 @@ Meetings for Fall 2025 will take place in Moody 241 on Tuesdays from 4-5PM.
   <tr>
     <th class="width-min">Topic</th>
     <th class="width-auto">Discussion Leader</th>
-    <th class="width-min">date</th>
+    <th class="width-min">Date</th>
     <th class="width-auto">Supplementary Materials</th>
   </tr>
 </thead>
@@ -86,22 +86,16 @@ Meetings for Fall 2025 will take place in Moody 241 on Tuesdays from 4-5PM.
   <tr>
     <th class="width-min">Topic</th>
     <th class="width-auto">Discussion Leader</th>
-    <th class="width-min">date</th>
+    <th class="width-min">Date</th>
     <th class="width-auto">Supplementary Materials</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>ROM</td>
-    <td>Mark devernon</td>
-    <td>4/3/2988</td>
-    <td>43°45'50.78"N 11°15'3.34"E</td>
-  </tr>
-  <tr>
-    <td>ROM</td>
-    <td>Mason McCallum</td>
-    <td>4/3/2988</td>
-    <td>43°45'50.78"N 11°15'3.34"E</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
   </tr>
 </tbody>
 </table>
