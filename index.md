@@ -173,6 +173,6 @@ Meetings for Fall 2025 will take place in Moody 241 on Tuesdays from 4-5PM.
 </table>
 
 ## Acknowledgments
-I would like to acknologe Jimmie Adriazola for mentoring and guiding the formation of this reading group.
+I would like to acknowledge Jimmie Adriazola for mentoring and guiding the formation of this reading group.
 Marc Devernon for managing the webpage.
 This webpage is a fork of: https://github.com/owickstrom/the-monospace-web.git So much thanks to Oskar Wickstrom for the nice work
