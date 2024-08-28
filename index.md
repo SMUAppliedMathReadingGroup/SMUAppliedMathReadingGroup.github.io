@@ -12,6 +12,8 @@ version: v0.1.0
 ## Introduction
 Welcome to the Applied Math Journal Club! The club is open to anyone interested in learning modern topics of applied math. Selected topics so for the upcoming semester will include uncertainty quantification, inverse problems, generative modeling in scientific computing, numerics for high-dimensional PDE, and data-driven equation discovery. If you have any questions about the club, please <a href=mailto:mmccallum@smu.edu>contact us.</a>.
 
+<hr>
+
 Meetings for Fall 2025 will take place in Moody 241 on Tuesdays from 4-5PM.
 
 <hr>
