@@ -30,16 +30,52 @@ Meetings for Fall 2025 will take place in Moody 241 on Tuesdays from 4-5PM.
 </thead>
 <tbody>
   <tr>
-    <td>ROM</td>
-    <td>Mark devernon</td>
-    <td>4/3/2988</td>
-    <td>43°45'50.78"N 11°15'3.34"E</td>
+    <td>Welcome Meeting</td>
+    <td>Jimmie Adriazola</td>
+    <td>Sep. 3rd</td>
+    <td>N/A</td>
   </tr>
   <tr>
-    <td>ROM</td>
+    <td><a href=https://arxiv.org/abs/1704.00063>Math Bio</a></td>
+    <td>Md Abu Talha</td>
+    <td>Sep. 10th</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href=https://www.pnas.org/doi/10.1073/pnas.1718942115>Math Finance</a></td>
+    <td>Daniel Margolis</td>
+    <td>Sep. 24th</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href=https://onlinelibrary.wiley.com/doi/book/10.1002/9780470685853>UQ</a></td>
     <td>Mason McCallum</td>
-    <td>4/3/2988</td>
-    <td>43°45'50.78"N 11°15'3.34"E</td>
+    <td>Oct. 1st</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href=https://onlinelibrary.wiley.com/doi/book/10.1002/9780470685853>UQ</a></td>
+    <td>Mason McCallum</td>
+    <td>Oct. 15th</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>Marc DeVernon</td>
+    <td>Oct. 22nd</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href=https://arxiv.org/abs/2002.01387>UQ</a></td>
+    <td>Jimmie Adriazola</td>
+    <td>Nov 12th</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href=https://arxiv.org/abs/2002.01387>UQ</a></td>
+    <td>Jimmie Adriazola</td>
+    <td>Nov 19th</td>
+    <td>N/A</td>
   </tr>
 </tbody>
 </table>
