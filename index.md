@@ -14,7 +14,7 @@ Welcome to the Applied Math Journal Club! The club is open to anyone interested 
 
 <hr>
 
-Meetings for Fall 2025 will take place in Moody 241 on Tuesdays from 4-5PM.
+Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
 
 <hr>
 
