@@ -2,7 +2,7 @@
 title: SMU Reading Group 
 subtitle: Topics in Applied Math and Data Science
 author: Mason A. McCallum 
-author-url: "https://wickstrom.tech"
+author-url: ""
 date: 2024-08-28
 lang: en
 toc-title: Contents
@@ -10,7 +10,7 @@ version: v0.1.0
 ---
 
 ## Introduction
-Welcome to the Applied Math Journal Club! The club is open to anyone interested in learning modern topics of applied math. Selected topics so for the upcoming semester will include uncertainty quantification, inverse problems, generative modeling in scientific computing, numerics for high-dimensional PDE, and data-driven equation discovery. If you have any questions about the club, please <a href=mailto:mmccallum@smu.edu>contact us.</a>.
+Welcome to the Applied Math Journal Club! The club is open to anyone interested in learning modern topics of applied math. Selected topics for the upcoming semester will include uncertainty quantification, inverse problems, generative modeling in scientific computing, numerics for high-dimensional PDE, and data-driven equation discovery. If you have any questions about the club, please <a href=mailto:mmccallum@smu.edu>contact us.</a>.
 
 <hr>
 
