@@ -1,13 +1,19 @@
 ---
 title: SMU Reading Group 
 subtitle: Topics in Applied Math and Data Science
-author: Mason A. McCallum 
+author: Mason A. McCallum, Marc de Vernon
 author-url: ""
 date: 2024-08-28
 lang: en
 toc-title: Contents
 version: v0.1.0
 ---
+<style>
+        p {
+            margin: 0;
+            padding: 0;
+        }
+</style>
 
 ## Introduction
 Welcome to the Applied Math Journal Club! The club is open to anyone interested in learning modern topics of applied math. Selected topics for the upcoming semester will include uncertainty quantification, inverse problems, generative modeling in scientific computing, numerics for high-dimensional PDE, and data-driven equation discovery. If you have any questions about the club, please <a href=mailto:mmccallum@smu.edu>contact us.</a>.
@@ -171,6 +177,34 @@ Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
   </tr>
 </tbody>
 </table>
+
+## Suggested Reading
+<p>
+  <a href="https://epubs.siam.org/doi/epdf/10.1137/21M1418642" target="_blank">
+            What Kinds of Functions Do Deep Neural Networks Learn? Insights from Variational Spline Theory
+  </a>
+</p>
+<p>
+  <a href="https://www.pnas.org/doi/10.1073/pnas.1718942115" target="_blank">
+            Solving high-dimensional partial differential equations using deep learning
+  </a>
+</p>
+<p>
+  <a href="https://arxiv.org/abs/2011.13456" target="_blank">
+            Score-Based Generative Modeling through Stochastic Differential Equations
+  </a>
+</p>
+<p>
+  <a href="https://www.pnas.org/doi/10.1073/pnas.2310142120" target="_blank">
+          In-context operator learning with data prompts for differential equation problems
+  </a>
+</p>
+<p>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608020301891?via%3Dihub" target="_blank">
+Approximation rates for neural networks with general activation functions
+  </a>
+</p>
+
 
 ## Acknowledgments
 I would like to acknowledge Jimmie Adriazola for mentoring and guiding the formation of this reading group.
