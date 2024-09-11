@@ -48,19 +48,19 @@ Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://www.pnas.org/doi/10.1073/pnas.1718942115>Math Finance</a></td>
-    <td>Daniel Margolis</td>
+    <td><a href=https://en.wikipedia.org/wiki/To_be_announced>TBD</a></td>
+    <td>Andrew Ho</td>
     <td>Sep. 24th</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://onlinelibrary.wiley.com/doi/book/10.1002/9780470685853>UQ</a></td>
+    <td><a href=https://arxiv.org/abs/2404.19756>KAM Networks</a></td>
     <td>Mason McCallum</td>
     <td>Oct. 1st</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://onlinelibrary.wiley.com/doi/book/10.1002/9780470685853>UQ</a></td>
+    <td><a href=https://arxiv.org/pdf/2403.18103>Diffusion Models</a></td>
     <td>Mason McCallum</td>
     <td>Oct. 15th</td>
     <td>N/A</td>
