@@ -48,7 +48,7 @@ Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://en.wikipedia.org/wiki/To_be_announced>TBD</a></td>
+    <td><a href=https://www.sciencedirect.com/science/article/abs/pii/S0893608020303063?via%3Dihub>SympNets</a></td>
     <td>Andrew Ho</td>
     <td>Sep. 24th</td>
     <td>N/A</td>
