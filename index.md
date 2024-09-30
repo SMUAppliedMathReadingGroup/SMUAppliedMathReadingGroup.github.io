@@ -57,7 +57,7 @@ Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
     <td><a href=https://arxiv.org/abs/2404.19756>KAM Networks</a></td>
     <td>Mason McCallum</td>
     <td>Oct. 1st</td>
-    <td>https://masonamccallum.github.io/talks/KART</td>
+    <td><a href=https://masonamccallum.github.io/talks/KART>notes</a></td>
   </tr>
   <tr>
     <td><a href=https://arxiv.org/pdf/2403.18103>Diffusion Models</a></td>
