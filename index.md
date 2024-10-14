@@ -60,7 +60,7 @@ Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
     <td><a href=https://masonamccallum.github.io/talks/KART>notes</a></td>
   </tr>
   <tr>
-    <td><a href=https://arxiv.org/pdf/2403.18103>Diffusion Models</a></td>
+    <td><a href=https://arxiv.org/pdf/0909.4061>RSVD</a></td>
     <td>Mason McCallum</td>
     <td>Oct. 15th</td>
     <td>N/A</td>
