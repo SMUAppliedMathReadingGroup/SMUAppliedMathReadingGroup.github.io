@@ -66,7 +66,7 @@ Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
     <td>N/A</td>
   </tr>
   <tr>
-    <td>TBD</td>
+    <td><a href=https://doi.org/10.2514/1.J058809>POD</a></td>
     <td>Marc DeVernon</td>
     <td>Oct. 22nd</td>
     <td>N/A</td>
