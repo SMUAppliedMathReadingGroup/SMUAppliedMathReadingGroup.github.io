@@ -72,8 +72,8 @@ Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://arxiv.org/abs/2002.01387>Random NLA</a></td>
-    <td>Jimmie Adriazola</td>
+    <td><a href=https://arxiv.org/abs/1806.07366>Neural ODEs</a></td>
+    <td>Andrew Ho</td>
     <td>Nov 12th</td>
     <td>N/A</td>
   </tr>
