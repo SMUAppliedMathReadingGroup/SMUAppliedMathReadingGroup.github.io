@@ -3,7 +3,7 @@ title: SMU Reading Group
 subtitle: Topics in Applied Math and Data Science
 author: Mason A. McCallum, Marc de Vernon
 author-url: ""
-date: 2024-08-28
+date: 2025-01-23
 lang: en
 toc-title: Contents
 version: v0.1.0
@@ -19,12 +19,11 @@ version: v0.1.0
 Welcome to the Applied Math Journal Club! The club is open to anyone interested in learning modern topics of applied math. Selected topics for the upcoming semester will include uncertainty quantification, inverse problems, generative modeling in scientific computing, numerics for high-dimensional PDE, and data-driven equation discovery. If you have any questions about the club, please <a href=mailto:mmccallum@smu.edu>contact us.</a>.
 
 <hr>
-
-Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
-
+Meetings for Spring 2024 will take place in Hyer G01 on Mondays from 3:45-5PM.
 <hr>
 
-## Fall 2024 Schedule 
+
+## Spring 2025 Schedule 
 <table>
 <thead>
   <tr>
@@ -36,54 +35,60 @@ Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
 </thead>
 <tbody>
   <tr>
-    <td>Welcome Meeting</td>
-    <td>Jimmie Adriazola</td>
-    <td>Sep. 3rd</td>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>Feb 3rd, 2025</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://arxiv.org/abs/1704.00063>Math Bio</a></td>
-    <td>Md Abu Talha</td>
-    <td>Sep. 10th</td>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>Feb 10th, 2025</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://www.sciencedirect.com/science/article/abs/pii/S0893608020303063?via%3Dihub>SympNets</a></td>
-    <td>Andrew Ho</td>
-    <td>Sep. 24th</td>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>Feb 24th, 2025</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://arxiv.org/abs/2404.19756>KAM Networks</a></td>
-    <td>Mason McCallum</td>
-    <td>Oct. 1st</td>
-    <td><a href=https://masonamccallum.github.io/talks/KART>notes</a></td>
-  </tr>
-  <tr>
-    <td><a href=https://arxiv.org/pdf/0909.4061>RSVD</a></td>
-    <td>Mason McCallum</td>
-    <td>Oct. 15th</td>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>Mar 24th, 2025</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://doi.org/10.2514/1.J058809>POD</a></td>
-    <td>Marc DeVernon</td>
-    <td>Oct. 22nd</td>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>Mar 31st, 2025</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://arxiv.org/abs/1806.07366>Neural ODEs</a></td>
-    <td>Andrew Ho</td>
-    <td>Nov 12th</td>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>April 7th, 2025</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href=https://arxiv.org/abs/2002.01387></a>Random NLA</td>
-    <td>Jimmie Adriazola</td>
-    <td>Nov 19th</td>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>April 7th, 2025</td>
     <td>N/A</td>
   </tr>
-</tbody>
+  <tr>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>Feb 21st, 2025</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>Feb 28th, 2025</td>
+    <td>N/A</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Past meetings log
@@ -97,6 +102,54 @@ Meetings for Fall 2024 will take place in Moody 241 on Tuesdays from 4-5PM.
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td><a href=https://arxiv.org/abs/2002.01387></a>Random NLA</td>
+    <td>Jimmie Adriazola</td>
+    <td>Nov 19th, 2024</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href=https://arxiv.org/abs/1806.07366>Neural ODEs</a></td>
+    <td>Andrew Ho</td>
+    <td>Nov 12th, 2024</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href=https://doi.org/10.2514/1.J058809>POD</a></td>
+    <td>Marc DeVernon</td>
+    <td>Oct. 22nd, 2024</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href=https://arxiv.org/pdf/0909.4061>RSVD</a></td>
+    <td>Mason McCallum</td>
+    <td>Oct. 15th, 2024</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href=https://arxiv.org/abs/2404.19756>KAM Networks</a></td>
+    <td>Mason McCallum</td>
+    <td>Oct. 1st, 2024</td>
+    <td><a href=https://masonamccallum.github.io/talks/KART>notes</a></td>
+  </tr>
+  <tr>
+    <td><a href=https://www.sciencedirect.com/science/article/abs/pii/S0893608020303063?via%3Dihub>SympNets</a></td>
+    <td>Andrew Ho</td>
+    <td>Sep. 24th, 2024</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href=https://arxiv.org/abs/1704.00063>Math Bio</a></td>
+    <td>Md Abu Talha</td>
+    <td>Sep. 10th, 2024</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Welcome Meeting</td>
+    <td>Jimmie Adriazola</td>
+    <td>Sep. 3rd, 2024</td>
+    <td>N/A</td>
+  </tr>
   <tr>
     <td>Optimal Transport and Applications (Research Talk)</a></td>
     <td>Axel Turnquist (UT Austin)</td>
