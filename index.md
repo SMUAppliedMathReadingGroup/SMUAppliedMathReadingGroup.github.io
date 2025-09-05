@@ -1,5 +1,5 @@
 ---
-title: SMU Reading Group 
+title: SMU Reading Group
 subtitle: Topics in Applied Math and Data Science
 author: Mason A. McCallum, Marc de Vernon
 author-url: ""
@@ -16,14 +16,14 @@ version: v0.1.0
 </style>
 
 ## Introduction
-Welcome to the Applied Math Journal Club! The club is open to anyone interested in learning modern topics of applied math. Selected topics for the upcoming semester will include uncertainty quantification, inverse problems, generative modeling in scientific computing, numerics for high-dimensional PDE, and data-driven equation discovery. If you have any questions about the club, please <a href=mailto:mmccallum@smu.edu>contact us.</a>.
+Welcome to the Applied Math Journal Club! The club is open to anyone interested in learning modern topics of applied math. Selected topics for the upcoming semester will be focused on the work of Dr.Matthew Dallas, Dr. Jianfeng Lu, and Dr. Yousef Saad. If you have any questions about the club, please <a href=mailto:mmccallum@smu.edu>contact us.</a>.
 
 <hr>
-Meetings for Spring 2024 will take place in Hyer G01 on Mondays from 3:45-5PM.
+Meetings for Fall 2025 will take place in Moody 241 on Mondays from 3:15-4:30PM.
 <hr>
 
 
-## Spring 2025 Schedule 
+## Spring 2025 Schedule
 <table>
 <thead>
   <tr>
@@ -35,57 +35,51 @@ Meetings for Spring 2024 will take place in Hyer G01 on Mondays from 3:45-5PM.
 </thead>
 <tbody>
   <tr>
+    <td>Welcome Meeting</td>
+    <td>Mason McCallum</td>
+    <td>Sept 8th, 2025</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Prep for Dr. Matthew's talk</td>
     <td>TBA</td>
+    <td>Sept 15th, 2025</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Research Funding Talk</td>
+    <td>Dr.Rachel Ball-Phillips</td>
+    <td>Sept 22nd, 2025</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Prep for Dr.Lu's  talk</td>
     <td>TBA</td>
-    <td>Feb 3rd, 2025</td>
+    <td>Oct 6th, 2025</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Prep for Dr.Lu's  talk</td>
+    <td>TBA</td>
+    <td>Oct 13th, 2025</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Pref for Dr.Saad's talk</td>
+    <td>TBA</td>
+    <td>Oct 20th, 2025</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Pref for Dr.Saad's talk</td>
+    <td>TBA</td>
+    <td>Oct 27th, 2025</td>
     <td>N/A</td>
   </tr>
   <tr>
     <td>TBA</td>
     <td>TBA</td>
-    <td>Feb 10th, 2025</td>
-    <td>N/A</td>
-  </tr>
-  <tr>
-    <td>TBA</td>
-    <td>TBA</td>
-    <td>Feb 24th, 2025</td>
-    <td>N/A</td>
-  </tr>
-  <tr>
-    <td>TBA</td>
-    <td>TBA</td>
-    <td>Mar 24th, 2025</td>
-    <td>N/A</td>
-  </tr>
-  <tr>
-    <td>TBA</td>
-    <td>TBA</td>
-    <td>Mar 31st, 2025</td>
-    <td>N/A</td>
-  </tr>
-  <tr>
-    <td>TBA</td>
-    <td>TBA</td>
-    <td>April 7th, 2025</td>
-    <td>N/A</td>
-  </tr>
-  <tr>
-    <td>TBA</td>
-    <td>TBA</td>
-    <td>April 7th, 2025</td>
-    <td>N/A</td>
-  </tr>
-  <tr>
-    <td>TBA</td>
-    <td>TBA</td>
-    <td>Feb 21st, 2025</td>
-    <td>N/A</td>
-  </tr>
-  <tr>
-    <td>TBA</td>
-    <td>TBA</td>
-    <td>Feb 28th, 2025</td>
+    <td>Nov 3rd, 2025</td>
     <td>N/A</td>
   </tr>
  </tbody>
