@@ -23,7 +23,7 @@ Meetings for Fall 2025 will take place in Moody 241 on Mondays from 3:15-4:30PM.
 <hr>
 
 
-## Spring 2025 Schedule
+## Fall 2025 Schedule
 <table>
 <thead>
   <tr>
@@ -41,10 +41,10 @@ Meetings for Fall 2025 will take place in Moody 241 on Mondays from 3:15-4:30PM.
     <td>N/A</td>
   </tr>
   <tr>
-    <td>Prep for Dr. Saad's talk</td>
+    <td>Prep for Dr. Matthew Dallas's talk</td>
     <td>TBA</td>
     <td>Sept 15th, 2025</td>
-    <td>https://www.semanticscholar.org/paper/GMRES:-a-generalized-minimal-residual-algorithm-for-Saad-Schultz/7bb9bab74df4d2939bbdf41fc33027b59e0f229e</td>
+    <td><a href=https://users.wpi.edu/~walker/Papers/Walker-Ni,SINUM,V49,1715-1735.pdf>AA paper</a></td>
   </tr>
   <tr>
     <td>Research Funding Talk</td>
@@ -68,7 +68,7 @@ Meetings for Fall 2025 will take place in Moody 241 on Mondays from 3:15-4:30PM.
     <td>Pref for Dr.Saad's talk</td>
     <td>TBA</td>
     <td>Oct 20th, 2025</td>
-    <td>N/A</td>
+    <td><a href=https://www.semanticscholar.org/paper/GMRES:-a-generalized-minimal-residual-algorithm-for-Saad-Schultz/7bb9bab74df4d2939bbdf41fc33027b59e0f229e>GMRES</a></td>
   </tr>
   <tr>
     <td>Pref for Dr.Saad's talk</td>
