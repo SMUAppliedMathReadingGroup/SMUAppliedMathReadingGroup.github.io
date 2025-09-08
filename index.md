@@ -41,10 +41,10 @@ Meetings for Fall 2025 will take place in Moody 241 on Mondays from 3:15-4:30PM.
     <td>N/A</td>
   </tr>
   <tr>
-    <td>Prep for Dr. Matthew's talk</td>
+    <td>Prep for Dr. Saad's talk</td>
     <td>TBA</td>
     <td>Sept 15th, 2025</td>
-    <td>N/A</td>
+    <td>https://www.semanticscholar.org/paper/GMRES:-a-generalized-minimal-residual-algorithm-for-Saad-Schultz/7bb9bab74df4d2939bbdf41fc33027b59e0f229e</td>
   </tr>
   <tr>
     <td>Research Funding Talk</td>
