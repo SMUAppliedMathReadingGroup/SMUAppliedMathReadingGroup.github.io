@@ -44,7 +44,10 @@ Meetings for Fall 2025 will take place in Moody 241 on Mondays from 3:15-4:30PM.
     <td>Prep for Dr. Matthew Dallas's talk</td>
     <td>TBA</td>
     <td>Sept 15th, 2025</td>
-    <td><a href=https://users.wpi.edu/~walker/Papers/Walker-Ni,SINUM,V49,1715-1735.pdf>AA paper</a></td>
+    <td>
+        <a href=https://users.wpi.edu/~walker/Papers/Walker-Ni,SINUM,V49,1715-1735.pdf>AA paper</a></br>
+        <a href=https://dl.acm.org/doi/pdf/10.1145/321296.321305>AA paper 2</a>
+    </td>
   </tr>
   <tr>
     <td>Research Funding Talk</td>
