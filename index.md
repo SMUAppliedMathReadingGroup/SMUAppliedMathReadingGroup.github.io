@@ -57,7 +57,7 @@ Meetings for Fall 2025 will take place in Moody 241 on Mondays from 3:15-4:30PM.
   </tr>
   <tr>
     <td>Prep for Dr.Lu's  talk</td>
-    <td>TBA</td>
+    <td>Intro. Lec. by Dr. Cai</td>
     <td>Oct 6th, 2025</td>
     <td>N/A</td>
   </tr>
