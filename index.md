@@ -71,13 +71,17 @@ Meetings for Fall 2025 will take place in Moody 241 on Mondays from 3:15-4:30PM.
     <td>Prep for Dr.Saad's talk</td>
     <td>TBA</td>
     <td>Oct 20th, 2025</td>
-    <td><a href=https://www.semanticscholar.org/paper/GMRES:-a-generalized-minimal-residual-algorithm-for-Saad-Schultz/7bb9bab74df4d2939bbdf41fc33027b59e0f229e>GMRES</a></td>
+    <td>
+        <a href=https://users.wpi.edu/~walker/siam_LA21.pdf>AA slides</a>
+        <a href=https://www.semanticscholar.org/paper/GMRES:-a-generalized-minimal-residual-algorithm-for-Saad-Schultz/7bb9bab74df4d2939bbdf41fc33027b59e0f229e>GMRES</a></br>
+        <a href=https://users.wpi.edu/~walker/Papers/anderson_accn_algs_imps.pdf>AA code</a>
+    </td>
   </tr>
   <tr>
     <td>Prep for Dr.Saad's talk</td>
     <td>TBA</td>
     <td>Oct 27th, 2025</td>
-    <td><a href=https://www.jstor.org/stable/pdf/2007504.pdf>Arnoldi</a></td>
+    <td><a href=https://arxiv.org/pdf/2306.00325>nLTGCR</a></td>
   </tr>
   <tr>
     <td>TBA</td>
