@@ -56,7 +56,7 @@ Meetings for Fall 2025 will take place in Moody 241 on Mondays from 3:15-4:30PM.
     <td>N/A</td>
   </tr>
   <tr>
-    <td>Prep for Dr.Lu's  talk</td>
+    <td>Spectral Bias, High-dim PDEs with Neural Networks for PDE Problems</td>
     <td>Intro. Lec. by Dr. Cai</td>
     <td>Oct 6th, 2025</td>
     <td>N/A</td>
