@@ -62,10 +62,10 @@ Meetings for Fall 2025 will take place in Moody 241 on Mondays from 3:15-4:30PM.
     <td>N/A</td>
   </tr>
   <tr>
-    <td>Prep for Dr.Lu's  talk</td>
-    <td>TBA</td>
+    <td>Hamilton-Jacobi-Bellman Equation</td>
+    <td>Discussion lead by Andrew Ho</td>
     <td>Oct 13th, 2025</td>
-    <td>N/A</td>
+    <td><a href="res/notes-mean-field.pdf">HJB (read section 2)</a></td>
   </tr>
   <tr>
     <td>Prep for Dr.Saad's talk</td>
